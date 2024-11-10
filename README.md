@@ -30,5 +30,5 @@ Para executar o projeto, siga os passos abaixo:
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/YgorGdev/BancoApp.git
+   git clone https://github.com/carouware/banco.git
 # banco
