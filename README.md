@@ -31,4 +31,3 @@ Para executar o projeto, siga os passos abaixo:
 
    ```bash
    git clone https://github.com/carouware/banco.git
-# banco
